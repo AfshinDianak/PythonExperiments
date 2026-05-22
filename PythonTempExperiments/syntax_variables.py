@@ -1,4 +1,5 @@
 #This file is for practicing and learning scripting with python to become more efficient with DevOps
+#Please use the functions file for creating new functions.
 print("******This file is for practicing and learning scripting with python to become more efficient with DevOps*****")
 age = 20
 name ="Ed"
@@ -21,7 +22,7 @@ product = x * y
 #     print(f"Current car: {car}")
 def Print(message):
     print(message)
-    
+
 numbers = [1,2,3,4,5,6]
 for num in numbers:
     if num % 2 == 0:
