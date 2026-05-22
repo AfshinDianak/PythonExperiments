@@ -19,11 +19,14 @@ product = x * y
 # car_array = ["Cuppra", "Audi", "BMW", "BYD is rubish"]
 # for car in car_array:
 #     print(f"Current car: {car}")
+def Print(message):
+    print(message)
+    
 numbers = [1,2,3,4,5,6]
 for num in numbers:
     if num % 2 == 0:
         print(f"Skipping this even number: {num}")
         continue
-    print(f"Current number:{num}")
+    message = f"Current number:{num}"
+    Print(message)
 
-print("Git Test")
