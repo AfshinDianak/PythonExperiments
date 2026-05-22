@@ -25,3 +25,5 @@ for num in numbers:
         print(f"Skipping this even number: {num}")
         continue
     print(f"Current number:{num}")
+
+print("Git Test")
