@@ -1,6 +1,7 @@
 #This file is for practicing and learning scripting with python to become more efficient with DevOps
 #Please use the functions file for creating new functions.
 #This line is added to create test merge conflict..
+#This line is added to check branching.
 print("******This file is for practicing and learning scripting with python to become more efficient with DevOps*****")
 age = 20
 name ="Ed"
